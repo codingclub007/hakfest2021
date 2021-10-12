@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int n, x, y, k;
-cout << "Enter the number of rows to show number paatern: ";
+cout << "Enter the number of rows  show number paatern: ";
 cin >> n;
 for(x = 1; x <= n; x++)
 {
